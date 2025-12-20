@@ -1,5 +1,6 @@
 # Programmheft Naturfreunde Dortmund-Kreuzviertel und Dortmund Nord
-Beiträge zum Programmheft der Klettergruppen aus den Ortsgruppen Kreuzviertel und Nord.
+
+Beiträge in den Programmheften der Klettergruppen aus den Ortsgruppen Kreuzviertel und Nord.
 
 ## 2025
 

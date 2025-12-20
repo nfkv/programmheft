@@ -1,6 +1,6 @@
 ## Sommerfreizeit Ith für Kinder
 
-Mit Beginn der Sommerferien in NRW war es endlich so weit. Am Morgen des 15. Juli ging es los zu unserer Sommer-/Klettefreizeit am Ith. Von Dortmund aus machten sich 31 Naturfreund*innen der Ortsgruppen Dortmund Nord und Dortmund Kreuzviertel auf den Weg ins Weser-Bergland, um dort 10 Tage auf dem Campingplatz am Naturfreundehaus Lauenstein zu verbringen. Bis auf eine kleine Gruppe Erwachsener die sich schon einen Tag eher mit vollbeladenem PKW und Anhänger auf den Weg gemacht hatten um schon einmal das Camp aufzubauen, reisten die Teilnehmer*innen gemeinsam mit dem Zug an. Von Dortmund aus ging es mit der Regionalbahn über Löhne nach Marinau. Nach einer kurzen Wanderung vom Bhf Marienau durch Felder und Wälder kamen wir am Naturfreunde Haus Lauenstein an.
+Mit Beginn der Sommerferien in NRW war es endlich so weit. Am Morgen des 15. Juli ging es los zu unserer Sommer-/Klettefreizeit am Ith. Von Dortmund aus machten sich 31 Naturfreund\*innen der Ortsgruppen Dortmund Nord und Dortmund Kreuzviertel auf den Weg ins Weser-Bergland, um dort 10 Tage auf dem Campingplatz am Naturfreundehaus Lauenstein zu verbringen. Bis auf eine kleine Gruppe Erwachsener die sich schon einen Tag eher mit vollbeladenem PKW und Anhänger auf den Weg gemacht hatten um schon einmal das Camp aufzubauen, reisten die Teilnehmer\*innen gemeinsam mit dem Zug an. Von Dortmund aus ging es mit der Regionalbahn über Löhne nach Marinau. Nach einer kurzen Wanderung vom Bhf Marienau durch Felder und Wälder kamen wir am Naturfreunde Haus Lauenstein an.
 
 ![Gruppe am Freibad](bilder/ith_25_7.jpg)
 ![Zwerge am Sektor Zirkus](bilder/ith_25_8.jpg)
@@ -42,3 +42,4 @@ Erschalte es auf dem Weg durch Felder auf dem Weg zum Bahnhof Marinau und bei de
 > Mila: „Ich dachte 10 Tage sind lang aber die Zeit ging schnell vorbei.“ – nächstes Jahr fahre ich wieder mit!
 
 Ein großer Dank geht an das Naturfreundehaus Lauenstein und die Naturfreunde Lauenstein, die das Bogenschießen durchgeführt haben.
+
