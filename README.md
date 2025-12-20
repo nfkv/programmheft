@@ -8,3 +8,5 @@ Beiträge in den Programmheften der Klettergruppen aus den Ortsgruppen Kreuzvier
 * [Workshop Belgien](./2025/workshop_belgien.md)
 * [Sommerfreizeit Ith](./2025/sommerfreizeit_ith.md)
 * [Meine erste Mehrseillänge](./2025/meine_erste_mehrseillaenge.md)
+* [Steinbruch Busche](./2025/steinbruch_busche.md)
+
