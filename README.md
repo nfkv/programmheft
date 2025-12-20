@@ -5,3 +5,4 @@ Beiträge zum Programmheft der Klettergruppen aus den Ortsgruppen Kreuzviertel u
 
 * [Flinta Klettern im Ith](./2025/flinta_klettern_ith.md)
 * [Workshop Belgien](./2025/Workshop_Belgien.md)
+* [Sommerfreizeit Ith](./2025/sommerfreizeit_ith.md)
