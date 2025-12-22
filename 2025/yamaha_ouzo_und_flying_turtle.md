@@ -27,11 +27,15 @@ Als einzigen Wermutstropfen zu erwähnen, ist, dass, wenn man mal früher zurüc
 
 Außerdem gab es am Strand, in der Umgebung und im Meer viel zu entdecken- ich sage nur Oktopus, Feuerfisch und Aale. Tatsächlich waren wir an einem Abend mit Marlon’s Kescher ausgestattet im Bachbett direkt neben dem Restaurant von Michael und Magret am Hafen unterwegs und haben in kurzer Zeit vier Aale gefangen. Ich habe den Anfang gemacht und Ole und Marlon haben dann die Famgmethode (die Fische per Hand in den Kescher treiben) recht schnell perfektioniert. Alle Kinder und Jugendlichen, sowie Dennis und ich waren begeistert. Und Keine Sorge, alle Fische sind wieder heil in ihrer natürlichen Umgebung gelandet. Auch die kleinen Barsche aus dem Hafenbecken, die als Einziger Ole mit ruhiger Hand reihenweise rausgezogen hat. 
 
+![Aal Kate](./bilder/leonidio_25_2.jpeg)
+
 Neben Klettern, Schwimmen, Essen gehen und im Ort im „Panjika“ leckeren Kaffe schlürfen, gab es noch eine, spannende und für mich gänzlich neue Aktivität.
 
 ### Routenbau
 
 Beim Flug war mir gar nicht klar, dass auch schweres Gerät mit am Start war. Verteilt auf Horst, Jonas und Richard u.a. War ein Statikseil, Akkuschlagbohrer inkl. mehrere Akkus und eine Anzahl Petzllaschen, Ringe für die Stände und Handsteigklemmen mitgeflogen. Damit wurden nach ein paar Tagen drei neue Routen im Sektor _Afrika_ eingebohrt. Benannt nach dem helleren Gesteinsbereich mit der Form des afrikanischen Kontinents.
+
+![Sektor Afrika](./bilder/leonidio_25_3.jpeg)
 
 Die ganze Aktion zog sich eine Weile hin - verteilt auf mehrere Tage. Sondieren der Lage, sich durch nicht vorhandene Wege nach oben durchschlagen - oberhalb des Felsabschnittes wo die Routen gebohrt werden sollten. Oben angekommen, Lage checken, lange Bandschlingen legen (um Bäume und Felsen) um Jonas einen Ankerpunkt zu abseilen einzurichten. Wir mussten zweimal auf den Felskopf hoch, da es am 1. Tag, als wir gerade bereit waren, anfing wie aus Eimern zu schütten. Abbruch.
 
@@ -40,6 +44,8 @@ Als dann am nächsten Tag der Arbeitsanker eingerichtet war, blieben Richie und 
 Als erstes wurde ein Anker mit Renundanz gesetzt. Von dort konnte Jonas mit Hilfe des markierten Seiles feststellen, von wo es noch 80 Meter bis zum Boden waren und dort nebeneinander drei stände bohren (Bohrhaken mit Ringen, immer doppelt als Renundanz). Jetzt war alles Safe - Jonas konnte sich selber ablassen und wir konnten oben alles abbauen, du Seile runterlassen und absteigen.
 
 Beim nächsten Schritt wurde „sauber gemacht“. Torre und ich waren dran und mir wurde zum ersten mal bewusst, dass Kletterrouten an Felsen nicht einfach so da sind, sondern das enorm viel Arbeit dahinter steckt. Mittels Fixseil, Grigri und Handsteigklemme konnten wir nebeneinander aufsteigen und währenddessen alles lose Gestein, Vegetation und sonstigem lockeren Material lösen. Hierfür hatten wir Hammer, Brechstangen, Sägen und kleinere Gartengeräte dabei und so wurden nach und nach alle locker sitzenden Steine, von kleinen Körnchen bis zu Kühschrankgrossen Felsen gelöst. Bis wir uns schließlich sicher waren, dass die Route sauber ist. Wenn die wirklich großen Brocken ins Tal donnern wird einem schon anders - ein unbeschreibliches Gefühl!
+
+![Torre am Werk](./bilder/leonidio_25_1.jpeg)
 
 Kurz vor Schluss, ich war schon wieder am Boden und Torre noch für ein paar restliche Arbeiten in der Wand, saß ich mit etwas Abstand von der Route an der Wand um kurz auszuruhen und auf einmal fiel mir etwas auf die Schulter und dann auf den Boden. Ein Stein, gelöst von Torre, konnte es nicht sein. Dafür war ich zu weit entfernt. Bei genauerer Betrachtung entpuppte es sich als eine Babyschildkröte, die den Sturz auch gut überstanden hatte. Hammer - was für ein Zufall und Glück. Dieses Ereignis gab der neu entstanden Route - sie wurde am nächsten Tag mit Bohrharken versehen und kurz danach geklettert. Der Routenname: Flying Turtle, Schwierigkeitsgrad: 6a+.
 
