@@ -10,4 +10,5 @@ Beiträge in den Programmheften der Klettergruppen aus den Ortsgruppen Kreuzvier
 * [Meine erste Mehrseillänge](./2025/meine_erste_mehrseillaenge.md)
 * [Steinbruch Busche](./2025/steinbruch_busche.md)
 * [Kletterparty](./2025/kletterparty.md)
+* [Yamaha, Ouzo und Flying Turtle](./2025/yamaha_ouzo_und_flying_turtle.md)
 
