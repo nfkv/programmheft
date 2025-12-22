@@ -12,3 +12,6 @@ Beiträge in den Programmheften der Klettergruppen aus den Ortsgruppen Kreuzvier
 * [Kletterparty](./2025/kletterparty.md)
 * [Yamaha, Ouzo und Flying Turtle](./2025/yamaha_ouzo_und_flying_turtle.md)
 
+
+[Kreuzworträtsel](./2025/bilder/kreuzwortraetsel.png)
+
