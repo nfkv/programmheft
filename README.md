@@ -11,9 +11,6 @@ Beiträge in den Programmheften der Klettergruppen aus den Ortsgruppen Kreuzvier
 * [Steinbruch Busche](./2025/steinbruch_busche.md)
 * [Kletterparty](./2025/kletterparty.md)
 * [Yamaha, Ouzo und Flying Turtle](./2025/yamaha_ouzo_und_flying_turtle.md)
-
-Nachgereichte Beiträge
-
 * [Monatliches FLINTA Klettern](./2025/flinta_klettern.md)
 * [Team Gourmet](./2025/gourmet.md)
 
